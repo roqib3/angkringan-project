@@ -1,0 +1,72 @@
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.AssemblyReference.cache
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.ManajamenStok.resources
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.GenerateResource.cache
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.AssemblyInfoInputs.cache
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.AssemblyInfo.cs
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.CoreCompileInputs.cache
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.exe
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.deps.json
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.runtimeconfig.json
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.pdb
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Visual Data\Project Angkringan\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.CopyComplete
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.dll
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\refint\Project Angkringan.dll
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.pdb
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.genruntimeconfig.cache
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\ref\Project Angkringan.dll
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.FormPemesanan.resources
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.Menu_Utama.resources
+D:\Visual Data\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.LoginForm.resources
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.exe
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.deps.json
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.runtimeconfig.json
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\Project Angkringan.pdb
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.AssemblyReference.cache
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.FormPemesanan.resources
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.LoginForm.resources
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.ManajamenStok.resources
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project_Angkringan.Angkringan.Menu_Utama.resources
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.GenerateResource.cache
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.AssemblyInfoInputs.cache
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.AssemblyInfo.cs
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.csproj.CopyComplete
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\refint\Project Angkringan.dll
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.pdb
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\Project Angkringan.genruntimeconfig.cache
+C:\Users\OWNER\Downloads\Project Angkringan\Project Angkringan\obj\Debug\net6.0-windows\ref\Project Angkringan.dll
